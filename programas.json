@@ -1,0 +1,250 @@
+{
+  "versao": 1,
+  "atualizado_em": "2026-11-08",
+  "programas": [
+    {
+      "id": "livelo",
+      "nome": "Livelo",
+      "tipo": "banco",
+      "como_acumular": [
+        "Cartões de crédito de bancos parceiros, como Bradesco e Banco do Brasil",
+        "Compras em lojas parceiras pelo site ou app da Livelo",
+        "Clube Livelo (assinatura mensal)",
+        "Compra de pontos em promoções"
+      ],
+      "validade": "Em geral 24 meses a partir do crédito. Pontos de campanhas e do Clube podem ter regra própria: confira a data no extrato.",
+      "transfere_para": [
+        {"programa": "Smiles", "paridade": "1:1"},
+        {"programa": "LATAM Pass", "paridade": null},
+        {"programa": "Azul Fidelidade", "paridade": null},
+        {"programa": "TAP Miles&Go", "paridade": null}
+      ],
+      "tem_clube": true,
+      "emissao_terceiros": null,
+      "cuidados": [
+        "Transferências para parceiros em geral não podem ser desfeitas.",
+        "Depois de transferidos, os pontos seguem a validade do programa de destino.",
+        "Bônus de transferência costumam ter validade menor que as milhas normais."
+      ],
+      "fonte_url": "https://www.livelo.com.br/regulamento",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "esfera",
+      "nome": "Esfera",
+      "tipo": "banco",
+      "como_acumular": [
+        "Cartões de crédito Santander",
+        "Compras em lojas parceiras pelo site ou app da Esfera",
+        "Clube Esfera (assinatura mensal)"
+      ],
+      "validade": "Muitos pontos valem 24 meses a partir do crédito, mas o prazo varia conforme o cartão, a origem e a campanha.",
+      "transfere_para": [
+        {"programa": "Smiles", "paridade": null},
+        {"programa": "LATAM Pass", "paridade": null},
+        {"programa": "Azul Fidelidade", "paridade": null},
+        {"programa": "Iberia Plus", "paridade": null}
+      ],
+      "tem_clube": true,
+      "emissao_terceiros": null,
+      "cuidados": [
+        "Pode haver quantidade mínima de pontos para transferir.",
+        "A paridade de alguns parceiros muda conforme a assinatura do Clube Esfera.",
+        "Transferir não renova a validade: os pontos passam a seguir as regras do destino."
+      ],
+      "fonte_url": "https://www.esfera.com.vc/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "atomos",
+      "nome": "Átomos (C6 Bank)",
+      "tipo": "banco",
+      "como_acumular": [
+        "Cartões de crédito C6 Bank que pontuam no Átomos",
+        "Pontuação maior conforme investimentos ou pagamentos no banco",
+        "Compra de pontos, quando disponível"
+      ],
+      "validade": null,
+      "transfere_para": [
+        {"programa": "Livelo", "paridade": null},
+        {"programa": "Smiles", "paridade": null},
+        {"programa": "LATAM Pass", "paridade": null},
+        {"programa": "Azul Fidelidade", "paridade": null},
+        {"programa": "TAP Miles&Go", "paridade": null}
+      ],
+      "tem_clube": null,
+      "emissao_terceiros": null,
+      "cuidados": [
+        "Cada parceiro tem uma quantidade mínima de pontos para transferir.",
+        "O crédito no parceiro pode levar alguns dias úteis.",
+        "Use o mesmo CPF no C6 e no programa de destino."
+      ],
+      "fonte_url": "https://www.c6bank.com.br/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "pontos-itau",
+      "nome": "Programa de Pontos Itaú",
+      "tipo": "banco",
+      "como_acumular": [
+        "Cartões de crédito Itaú, Uniclass e Personnalité que pontuam no programa",
+        "Pontuação maior em alguns cartões conforme gasto e relacionamento"
+      ],
+      "validade": null,
+      "transfere_para": [
+        {"programa": "LATAM Pass", "paridade": "1:1"}
+      ],
+      "tem_clube": null,
+      "emissao_terceiros": null,
+      "cuidados": [
+        "Nem todo cartão Itaú pontua no programa: os cartões LATAM Pass e Azul acumulam direto na companhia aérea.",
+        "A transferência é pedida pelo app do Itaú e pode levar até 2 dias úteis.",
+        "Em campanhas de bônus, faça o cadastro antes de transferir."
+      ],
+      "fonte_url": "https://latampass.latam.com/pt_br/junte-milhas/programa-de-pontos-itau",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "inter-loop",
+      "nome": "Inter Loop",
+      "tipo": "banco",
+      "como_acumular": [
+        "Cartão de crédito Inter",
+        "Compras no shopping do app Inter"
+      ],
+      "validade": null,
+      "transfere_para": [
+        {"programa": "Smiles", "paridade": "1:1"},
+        {"programa": "Azul Fidelidade", "paridade": null}
+      ],
+      "tem_clube": null,
+      "emissao_terceiros": null,
+      "cuidados": [
+        "A transferência para a Smiles é voltada a clientes de segmentos específicos do Inter. Confira se você é elegível.",
+        "Em promoções, cadastre-se antes de transferir para não perder o bônus.",
+        "Os limites mínimos e máximos de transferência são definidos pelo Inter."
+      ],
+      "fonte_url": "https://inter.co/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "smiles",
+      "nome": "Smiles",
+      "tipo": "aerea",
+      "como_acumular": [
+        "Voos GOL e de companhias parceiras",
+        "Transferência de pontos de bancos e programas de pontos",
+        "Cartões de crédito Smiles",
+        "Clube Smiles (assinatura mensal)",
+        "Compras em lojas parceiras"
+      ],
+      "validade": "Depende da categoria do participante e da origem das milhas. Milhas de promoções e de bônus podem ter prazo menor. Confira no extrato.",
+      "transfere_para": [],
+      "tem_clube": true,
+      "emissao_terceiros": null,
+      "cuidados": [
+        "Milhas bônus de transferência costumam vencer antes das milhas normais.",
+        "A venda de milhas e de passagens emitidas com milhas é proibida pelo regulamento.",
+        "Compare datas: a quantidade de milhas varia bastante."
+      ],
+      "fonte_url": "https://www.smiles.com.br/portal/regulamento-do-programa-smiles-1706",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "latam-pass",
+      "nome": "LATAM Pass",
+      "tipo": "aerea",
+      "como_acumular": [
+        "Voos LATAM e de companhias parceiras",
+        "Transferência de pontos de bancos e programas de pontos",
+        "Cartões de crédito LATAM Pass",
+        "Clube LATAM Pass (assinatura mensal)"
+      ],
+      "validade": "Segundo o programa, as milhas são renovadas por 36 meses a cada voo LATAM que gere milhas. Milhas do Clube valem 3 anos a partir da compra. Campanhas podem ter prazo próprio.",
+      "transfere_para": [],
+      "tem_clube": true,
+      "emissao_terceiros": null,
+      "cuidados": [
+        "Milhas que venceram há pouco tempo podem ter opção de renovação. Confira no site.",
+        "Campanhas de transferência podem exigir cadastro prévio e mesmo CPF.",
+        "A venda de milhas é proibida pelo regulamento."
+      ],
+      "fonte_url": "https://latampass.latam.com/pt_br/milhas/como-juntar-milhas/solicitar-milhas-em-voo/validade-milhas",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "azul-fidelidade",
+      "nome": "Azul Fidelidade",
+      "tipo": "aerea",
+      "como_acumular": [
+        "Voos Azul e de companhias parceiras",
+        "Transferência de pontos de bancos e programas de pontos",
+        "Cartões de crédito Azul",
+        "Clube Azul (assinatura mensal)"
+      ],
+      "validade": "Varia conforme o nível do cliente no momento do acúmulo, de 2 anos (nível inicial) a 5 anos (nível mais alto). Pontos de promoções seguem o regulamento da campanha.",
+      "transfere_para": [],
+      "tem_clube": true,
+      "emissao_terceiros": null,
+      "cuidados": [
+        "Bônus de transferência costumam ter validade curta.",
+        "Ao cancelar o Clube, os pontos podem voltar a vencer pela data original.",
+        "O programa se chamava TudoAzul; o nome atual é Azul Fidelidade."
+      ],
+      "fonte_url": "https://www.voeazul.com.br/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "tap-miles-go",
+      "nome": "TAP Miles&Go",
+      "tipo": "aerea",
+      "como_acumular": [
+        "Voos TAP e de companhias parceiras",
+        "Transferência de pontos de programas brasileiros, como Livelo e Átomos",
+        "Club TAP Miles&Go (assinatura)"
+      ],
+      "validade": null,
+      "transfere_para": [],
+      "tem_clube": true,
+      "emissao_terceiros": null,
+      "cuidados": [
+        "A disponibilidade de assentos com milhas em parceiras pode ser restrita.",
+        "Em emissões para a Europa, confira as taxas cobradas em dinheiro.",
+        "Clubes podem ter carência mínima de permanência."
+      ],
+      "fonte_url": "https://www.flytap.com/pt-br/miles-and-go",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "aadvantage",
+      "nome": "AAdvantage",
+      "tipo": "aerea",
+      "como_acumular": [
+        "Voos American Airlines e de companhias parceiras",
+        "Cartões de crédito AAdvantage",
+        "Parceiros do programa"
+      ],
+      "validade": "As milhas vencem depois de 24 meses sem atividade que gere ou use milhas. Titulares de cartão AAdvantage podem ter regra diferente.",
+      "transfere_para": [],
+      "tem_clube": null,
+      "emissao_terceiros": null,
+      "cuidados": [
+        "Qualquer acúmulo ou resgate renova o prazo de 24 meses.",
+        "A busca e a emissão costumam ser feitas no site da American Airlines, em dólar.",
+        "Confira taxas e regras de cancelamento antes de emitir."
+      ],
+      "fonte_url": "https://www.aa.com/web/i18n/aadvantage-program/aadvantage-credit-card-terms.html",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    }
+  ]
+}

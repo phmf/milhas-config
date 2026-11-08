@@ -1,0 +1,26 @@
+{
+  "versao": 1,
+  "atualizado_em": "2026-11-08",
+  "afiliado": {
+    "marker": "802695",
+    "base_url": "https://www.aviasales.com",
+    "proxy_url": ""
+  },
+  "milheiro_referencia": [
+    {"programa": "Smiles", "milheiro_ref": 16.0, "fonte": "valor de referência", "atualizado_em": "2026-11-08"},
+    {"programa": "LATAM Pass", "milheiro_ref": 25.0, "fonte": "valor de referência", "atualizado_em": "2026-11-08"},
+    {"programa": "Azul Fidelidade", "milheiro_ref": 15.0, "fonte": "valor de referência", "atualizado_em": "2026-11-08"}
+  ],
+  "promocoes": [],
+  "datas_fixas": [
+    {"titulo": "Black Friday", "data": "2026-11-27", "descricao": "Época com muitas promoções de compra de pontos e transferências bonificadas"}
+  ],
+  "milhas_por_trecho": [
+    {"trecho": "Nacional curto (até 1h30)", "milhas_min": 5000, "milhas_max": 12000},
+    {"trecho": "Nacional longo", "milhas_min": 8000, "milhas_max": 25000},
+    {"trecho": "América do Sul", "milhas_min": 15000, "milhas_max": 40000},
+    {"trecho": "EUA / Orlando", "milhas_min": 35000, "milhas_max": 90000},
+    {"trecho": "Europa", "milhas_min": 40000, "milhas_max": 120000}
+  ],
+  "avisos": []
+}

@@ -1,0 +1,634 @@
+{
+  "versao": 1,
+  "atualizado_em": "2026-11-08",
+  "cartoes": [
+    {
+      "id": "itau-uniclass-black",
+      "nome": "Itaú Uniclass Mastercard Black",
+      "emissor": "Itaú Unibanco",
+      "bandeira_texto": "Mastercard",
+      "pontos_por_dolar": 2.0,
+      "pontos_por_dolar_max": 2.5,
+      "programa_pontos": "Programa de Pontos Itaú",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "LATAM Pass",
+          "paridade": "1:1"
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "Pontuação maior (até 2,5 por dólar) exige fatura a partir de R$ 4 mil e adesão a programa de relacionamento do banco.",
+      "fonte_url": "https://www.itau.com.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "itau-uniclass-infinite",
+      "nome": "Itaú Uniclass Visa Infinite",
+      "emissor": "Itaú Unibanco",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": 2.0,
+      "pontos_por_dolar_max": 2.5,
+      "programa_pontos": "Programa de Pontos Itaú",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "LATAM Pass",
+          "paridade": "1:1"
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "Pontuação maior (até 2,5 por dólar) exige fatura a partir de R$ 4 mil e adesão a programa de relacionamento do banco.",
+      "fonte_url": "https://www.itau.com.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "itau-personnalite-black",
+      "nome": "Itaú Personnalité Mastercard Black",
+      "emissor": "Itaú Unibanco",
+      "bandeira_texto": "Mastercard",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": null,
+      "programa_pontos": "Programa de Pontos Itaú",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "LATAM Pass",
+          "paridade": "1:1"
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "Existem versões com regras de pontuação diferentes. As fontes consultadas divergem: confira no site oficial.",
+      "fonte_url": "https://www.itau.com.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "itau-personnalite-infinite",
+      "nome": "Itaú Personnalité Visa Infinite",
+      "emissor": "Itaú Unibanco",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": null,
+      "programa_pontos": "Programa de Pontos Itaú",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "LATAM Pass",
+          "paridade": "1:1"
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "As fontes consultadas divergem sobre a pontuação: confira no site oficial.",
+      "fonte_url": "https://www.itau.com.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "latam-pass-itau-black",
+      "nome": "LATAM Pass Itaú Mastercard Black",
+      "emissor": "Itaú Unibanco",
+      "bandeira_texto": "Mastercard",
+      "pontos_por_dolar": 2.5,
+      "pontos_por_dolar_max": 3.5,
+      "programa_pontos": "LATAM Pass",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [],
+      "anuidade_ref": null,
+      "observacoes": "Acumula milhas direto no LATAM Pass. A pontuação maior (3,5) vale para compras no exterior. Há campanhas temporárias com pontuação extra.",
+      "fonte_url": "https://www.itau.com.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "latam-pass-itau-infinite",
+      "nome": "LATAM Pass Itaú Visa Infinite",
+      "emissor": "Itaú Unibanco",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": 2.5,
+      "pontos_por_dolar_max": 3.5,
+      "programa_pontos": "LATAM Pass",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [],
+      "anuidade_ref": null,
+      "observacoes": "Acumula milhas direto no LATAM Pass. A pontuação maior (3,5) vale para compras no exterior.",
+      "fonte_url": "https://www.itau.com.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "azul-itau-infinite",
+      "nome": "Azul Itaú Visa Infinite",
+      "emissor": "Itaú Unibanco",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": 3.0,
+      "pontos_por_dolar_max": 3.5,
+      "programa_pontos": "Azul Fidelidade",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [],
+      "anuidade_ref": null,
+      "observacoes": "Acumula pontos direto no Azul Fidelidade. A pontuação maior (3,5) vale para compras no exterior.",
+      "fonte_url": "https://www.itau.com.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "bradesco-aeternum",
+      "nome": "Bradesco Aeternum Visa Infinite",
+      "emissor": "Bradesco",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": 4.0,
+      "pontos_por_dolar_max": 7.0,
+      "programa_pontos": "Livelo",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "Smiles",
+          "paridade": "1:1"
+        },
+        {
+          "programa": "LATAM Pass",
+          "paridade": null
+        },
+        {
+          "programa": "Azul Fidelidade",
+          "paridade": null
+        },
+        {
+          "programa": "TAP Miles&Go",
+          "paridade": null
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "Segundo as fontes de 2026, a pontuação de 7 por dólar vale para compras no exterior desde agosto de 2026.",
+      "fonte_url": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/index.shtm",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "bradesco-visa-infinite",
+      "nome": "Bradesco Visa Infinite",
+      "emissor": "Bradesco",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": 2.0,
+      "pontos_por_dolar_max": null,
+      "programa_pontos": "Livelo",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "Smiles",
+          "paridade": "1:1"
+        },
+        {
+          "programa": "LATAM Pass",
+          "paridade": null
+        },
+        {
+          "programa": "Azul Fidelidade",
+          "paridade": null
+        },
+        {
+          "programa": "TAP Miles&Go",
+          "paridade": null
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "Existem versões do Visa Infinite com pontuações diferentes. Confira a do seu cartão.",
+      "fonte_url": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/index.shtm",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "smiles-bradesco-infinite",
+      "nome": "Smiles Bradesco Visa Infinite",
+      "emissor": "Bradesco",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": 3.0,
+      "pontos_por_dolar_max": 5.5,
+      "programa_pontos": "Smiles",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [],
+      "anuidade_ref": null,
+      "observacoes": "Acumula milhas direto na Smiles. A pontuação maior exige assinatura do Clube Smiles ou categoria alta no programa.",
+      "fonte_url": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/index.shtm",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "santander-unlimited-infinite",
+      "nome": "Santander Unlimited Visa Infinite",
+      "emissor": "Santander",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": null,
+      "programa_pontos": "Esfera",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "Smiles",
+          "paridade": null
+        },
+        {
+          "programa": "LATAM Pass",
+          "paridade": null
+        },
+        {
+          "programa": "Azul Fidelidade",
+          "paridade": null
+        },
+        {
+          "programa": "Iberia Plus",
+          "paridade": null
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "As fontes divergem sobre a pontuação em compras no Brasil. Pontuação maior pode exigir relacionamento com o banco.",
+      "fonte_url": "https://www.santander.com.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "santander-unlimited-black",
+      "nome": "Santander Unlimited Mastercard Black",
+      "emissor": "Santander",
+      "bandeira_texto": "Mastercard",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": null,
+      "programa_pontos": "Esfera",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "Smiles",
+          "paridade": null
+        },
+        {
+          "programa": "LATAM Pass",
+          "paridade": null
+        },
+        {
+          "programa": "Azul Fidelidade",
+          "paridade": null
+        },
+        {
+          "programa": "Iberia Plus",
+          "paridade": null
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "As fontes divergem sobre a pontuação em compras no Brasil. Pontuação maior pode exigir relacionamento com o banco.",
+      "fonte_url": "https://www.santander.com.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "smiles-santander-infinite",
+      "nome": "Smiles Santander Visa Infinite",
+      "emissor": "Santander",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": 3.0,
+      "pontos_por_dolar_max": 5.5,
+      "programa_pontos": "Smiles",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [],
+      "anuidade_ref": null,
+      "observacoes": "Acumula milhas direto na Smiles. A pontuação maior exige assinatura do Clube Smiles ou categoria alta no programa.",
+      "fonte_url": "https://www.santander.com.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "santander-elite",
+      "nome": "Santander Elite",
+      "emissor": "Santander",
+      "bandeira_texto": "Visa/Mastercard (consulte)",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": null,
+      "programa_pontos": "Esfera",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "Smiles",
+          "paridade": null
+        },
+        {
+          "programa": "LATAM Pass",
+          "paridade": null
+        },
+        {
+          "programa": "Azul Fidelidade",
+          "paridade": null
+        },
+        {
+          "programa": "Iberia Plus",
+          "paridade": null
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "Não foi possível confirmar a pontuação em fonte confiável.",
+      "fonte_url": "https://www.santander.com.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "santander-aadvantage",
+      "nome": "Santander AAdvantage",
+      "emissor": "Santander",
+      "bandeira_texto": "Consulte o emissor",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": null,
+      "programa_pontos": "AAdvantage",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [],
+      "anuidade_ref": null,
+      "observacoes": "Cartão que acumula milhas no programa AAdvantage. Pontuação a confirmar no site oficial.",
+      "fonte_url": "https://www.santander.com.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "bb-altus-infinite",
+      "nome": "Ourocard Altus Visa Infinite",
+      "emissor": "Banco do Brasil",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": null,
+      "programa_pontos": "Livelo",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "Smiles",
+          "paridade": "1:1"
+        },
+        {
+          "programa": "LATAM Pass",
+          "paridade": null
+        },
+        {
+          "programa": "Azul Fidelidade",
+          "paridade": null
+        },
+        {
+          "programa": "TAP Miles&Go",
+          "paridade": null
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "Teve pontuação promocional em 2026. As fontes divergem sobre a pontuação atual: confira no site oficial.",
+      "fonte_url": "https://www.bb.com.br/site/pra-voce/cartoes/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "bb-altus-liv",
+      "nome": "Ourocard Altus Liv Visa Infinite",
+      "emissor": "Banco do Brasil",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": null,
+      "programa_pontos": "Livelo",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "Smiles",
+          "paridade": "1:1"
+        },
+        {
+          "programa": "LATAM Pass",
+          "paridade": null
+        },
+        {
+          "programa": "Azul Fidelidade",
+          "paridade": null
+        },
+        {
+          "programa": "TAP Miles&Go",
+          "paridade": null
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "As fontes divergem sobre a pontuação. Pode variar conforme o gasto mensal.",
+      "fonte_url": "https://www.bb.com.br/site/pra-voce/cartoes/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "smiles-bb-infinite",
+      "nome": "Smiles Visa Infinite Banco do Brasil",
+      "emissor": "Banco do Brasil",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": 5.5,
+      "programa_pontos": "Smiles",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [],
+      "anuidade_ref": null,
+      "observacoes": "Acumula milhas direto na Smiles. A pontuação maior exige assinatura do Clube Smiles.",
+      "fonte_url": "https://www.bb.com.br/site/pra-voce/cartoes/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "c6-carbon",
+      "nome": "C6 Carbon Mastercard Black",
+      "emissor": "C6 Bank",
+      "bandeira_texto": "Mastercard",
+      "pontos_por_dolar": 2.5,
+      "pontos_por_dolar_max": 3.5,
+      "programa_pontos": "Átomos (C6 Bank)",
+      "pontos_expiram": false,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "Livelo",
+          "paridade": null
+        },
+        {
+          "programa": "Smiles",
+          "paridade": null
+        },
+        {
+          "programa": "LATAM Pass",
+          "paridade": null
+        },
+        {
+          "programa": "Azul Fidelidade",
+          "paridade": null
+        },
+        {
+          "programa": "TAP Miles&Go",
+          "paridade": null
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "Pontuação maior exige investimento ou pagamentos mensais no banco.",
+      "fonte_url": "https://www.c6bank.com.br/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "c6-black",
+      "nome": "C6 Mastercard Black",
+      "emissor": "C6 Bank",
+      "bandeira_texto": "Mastercard",
+      "pontos_por_dolar": 2.0,
+      "pontos_por_dolar_max": 2.5,
+      "programa_pontos": "Átomos (C6 Bank)",
+      "pontos_expiram": false,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "Livelo",
+          "paridade": null
+        },
+        {
+          "programa": "Smiles",
+          "paridade": null
+        },
+        {
+          "programa": "LATAM Pass",
+          "paridade": null
+        },
+        {
+          "programa": "Azul Fidelidade",
+          "paridade": null
+        },
+        {
+          "programa": "TAP Miles&Go",
+          "paridade": null
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "Pontuação maior exige centralizar pagamentos ou investir no banco.",
+      "fonte_url": "https://www.c6bank.com.br/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "xp-infinite",
+      "nome": "XP Visa Infinite",
+      "emissor": "XP Investimentos",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": 2.2,
+      "pontos_por_dolar_max": 3.0,
+      "programa_pontos": null,
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [],
+      "anuidade_ref": null,
+      "observacoes": "Pontuação maior exige movimentação na conta XP. O cartão também tem opção de investback em vez de pontos.",
+      "fonte_url": "https://www.xpi.com.br/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "nubank-ultravioleta",
+      "nome": "Nubank Ultravioleta",
+      "emissor": "Nubank",
+      "bandeira_texto": "Mastercard",
+      "pontos_por_dolar": 2.2,
+      "pontos_por_dolar_max": null,
+      "programa_pontos": null,
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [],
+      "anuidade_ref": null,
+      "observacoes": "O cliente escolhe entre pontos e cashback. Confira programa e parceiros no app.",
+      "fonte_url": "https://nubank.com.br/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "porto-infinite",
+      "nome": "Porto Bank Visa Infinite",
+      "emissor": "Porto Bank",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": 3.5,
+      "programa_pontos": "PortoPlus",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [],
+      "anuidade_ref": null,
+      "observacoes": "Segundo o regulamento do PortoPlus, 3,5 pontos por dólar no exterior. Em compras no Brasil a pontuação varia conforme o gasto.",
+      "fonte_url": "https://www.portoseguro.com.br/content/dam/documentos/porto_bank/Regulamento_PortoPlus_VF.pdf",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "inter-black",
+      "nome": "Inter Mastercard Black",
+      "emissor": "Banco Inter",
+      "bandeira_texto": "Mastercard",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": null,
+      "programa_pontos": "Inter Loop",
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [
+        {
+          "programa": "Smiles",
+          "paridade": "1:1"
+        }
+      ],
+      "anuidade_ref": null,
+      "observacoes": "A transferência para a Smiles é voltada a clientes de segmentos específicos do Inter.",
+      "fonte_url": "https://inter.co/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "btg-black",
+      "nome": "BTG+ Mastercard Black",
+      "emissor": "BTG Pactual",
+      "bandeira_texto": "Mastercard",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": 2.2,
+      "programa_pontos": null,
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [],
+      "anuidade_ref": null,
+      "observacoes": "O cliente pode escolher entre pontos e cashback. Confira as condições no site oficial.",
+      "fonte_url": "https://www.btgpactual.com/",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    },
+    {
+      "id": "caixa-icone-infinite",
+      "nome": "Caixa Ícone Visa Infinite",
+      "emissor": "Caixa",
+      "bandeira_texto": "Visa",
+      "pontos_por_dolar": null,
+      "pontos_por_dolar_max": null,
+      "programa_pontos": null,
+      "pontos_expiram": null,
+      "validade_meses": null,
+      "transfere_para": [],
+      "anuidade_ref": null,
+      "observacoes": "Não foi possível confirmar a pontuação em fonte confiável.",
+      "fonte_url": "https://www.caixa.gov.br/cartoes",
+      "conferido_em": "2026-11-08",
+      "verificado": false
+    }
+  ]
+}
